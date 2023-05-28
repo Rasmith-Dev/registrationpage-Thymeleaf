@@ -1,17 +1,6 @@
-# YouTube Tutorial Series - Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL
+## Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL
+## OUTPUT
 
-Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL - PART 1 at https://youtu.be/Hk70e7KR290
+![Screenshot (154)](https://github.com/Rasmith-Dev/registrationpage-Thymeleaf/assets/134858974/13d2683b-69fb-40ef-b337-a8afb7f8925f)
+![Screenshot (155)](https://github.com/Rasmith-Dev/registrationpage-Thymeleaf/assets/134858974/7623ce80-2e41-44e0-8d22-aee32917181d)
 
-Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL - PART 2 at https://youtu.be/JE7KaTIF1Z4
-
-Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL - PART 3 at https://youtu.be/VqitTIMG5uI
-
-Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL - PART 4 at https://youtu.be/uS8zA3W8p5s
-
-Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL - PART 5 at https://youtu.be/hPCynjmapSo
-
-Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL - PART 6 at https://youtu.be/hE_STc3eWzE
-
-Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL - PART 7 at https://youtu.be/Tu3lBxlFBlM
-
-Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL - PART 8 at https://youtu.be/KKjKFLKlCbc
